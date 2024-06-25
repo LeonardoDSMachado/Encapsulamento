@@ -1,5 +1,3 @@
-﻿using System.Transactions;
-
 Console.WriteLine("## Propriedades ##");
 
 Produto p1 = new Produto();
